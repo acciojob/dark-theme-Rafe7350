@@ -1,9 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 0.5s ease-in-out;
+}
+
 #app{
   height:90vh;
 }
 .night{
-  background-color: black;
-  color:white;
+   /* background-color: black;  */
+  color:rgb(86, 6, 6);
 }
 
 #swap{
