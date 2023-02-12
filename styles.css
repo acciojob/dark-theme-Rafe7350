@@ -17,7 +17,9 @@
   outline:0;
 }
 
-.button_night{
-  background-color:blue;
+ .button_day{ 
+ /* #button#swap{ */
+  /* background-color:blue; */
+  background-color: black;
   color:white; 
 }
