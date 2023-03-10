@@ -4,7 +4,6 @@
   box-sizing: border-box;
   transition: 0.5s ease-in-out;
 }
-
 #app{
   height:90vh;
 }
